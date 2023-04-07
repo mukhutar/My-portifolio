@@ -38,12 +38,9 @@ body{
     margin-right: 10%;
     padding: 5px;
     transition: all 0.8s ease-in-out;
-}
-
-.list:hover{
     color: rgb(157, 208, 228);
-
 }
+
 
 .list , a{
     

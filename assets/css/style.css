@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    scroll-behavior:smooth;
 
     
 }
@@ -259,11 +260,11 @@ span{
 }
 
 .form input{
-    background: transparent;
+    background:#9bafb4;
     border-bottom: 1px solid black;
 }
 textarea{
-    background: transparent;
+    background:#9bafb4;
     border-bottom: 1px solid black;
 }
 
